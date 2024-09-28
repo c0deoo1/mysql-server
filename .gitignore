@@ -3071,3 +3071,8 @@ client/mysql_ssl_rsa_setup
 
 # Allow
 !include/*/boost/geometry/*
+
+/cmake-build-debug/.cmake/api/v1/query/
+/.idea/
+/.idea/
+/build/
